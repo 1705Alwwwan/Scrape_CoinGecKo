@@ -1,0 +1,6 @@
+1. buat project dengan django
+2. buat app dengan 
+3. cantumkan nama app di settings.py di settings.py
+4. buat models.py di app
+5. buat mekanisme scrap di app dengan nama file scrapper.py
+6. buat fitur di views.py
